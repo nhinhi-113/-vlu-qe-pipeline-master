@@ -1,3 +1,4 @@
+//ghi chu//
 function login(username, password) {
     // Tài khoản bị khóa
     if (username === "locked") {
